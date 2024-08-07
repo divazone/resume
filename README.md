@@ -13,4 +13,4 @@ Support Tranditional Chinese.
 
 ### Installation
 
- see `.travis.yml`
+ see `.github/workflows/master.yml`
