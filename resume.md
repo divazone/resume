@@ -2,10 +2,8 @@ Uei-Rung King
 ============
 
 -------------------                 ---------------------
-kingweirong@gmail.com                                 
+<kingweirong@gmail.com>
 -------------------                 ---------------------
-
-----
 
 > Jia-Jun Yeh, a seasoned principal software engineer specializing in FinTech, blends deep computer science knowledge with expertise in C++ and Go. He has evolved into a skilled Kubernetes administrator and application developer, demonstrating exceptional adaptability and swift learning. Over the past few years, Jia-Jun has confidently embraced a significant leadership role, steering his team towards innovation and collective achievement with decisive direction.
 
@@ -41,7 +39,6 @@ July 2019-Jan 2021
     - Expanded the team by recruiting 2 Backend Engineers and 1 Frontend Engineer, enhancing team diversity and technical capabilities as Team Manager.
     - Led and collaborated with the team in developing system management and customer dashboard projects, fostering a collaborative environment and ensuring project success.
 
-
 June 2018-May 2019
 :   **COBINHOOD, Ltd.** _Lead Backend developer_
 
@@ -50,7 +47,6 @@ June 2018-May 2019
     - Optimized Kubernetes deployments, cutting Google Cloud Platform costs by over USD 10,000 monthly.
     - Implemented the Go version client library to integrate 2 blockchains (Monero, Tezos) in exchange.
     - Managed operations for a cryptocurrency exchange, maintaining exclusive production environment access with privileges to hot wallet private keys, a responsibility shared only with the CTO and Backend VP.
-
 
 June 2017-June 2018
 :   **Taipei Exchange** _Software Engineer_

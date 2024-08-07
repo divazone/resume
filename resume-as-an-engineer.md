@@ -2,14 +2,12 @@ Uei-Rung King
 ============
 
 -------------------                 ---------------------
-kingweirong@gmail.com                                 
+<kingweirong@gmail.com>
 -------------------                 ---------------------
 
-----
-
->  Jia-Jun is a highly skilled software engineer specializing in C++ and Go programming.
->  He worked at Taipei Exchange, then became a senior backend developer at a blockchain startup and eventually led a cryptocurrency exchange team.
->  Currently, Jia-Jun is the Chief Technology Officer at Stranity Technology Co., Ltd. and has led the development of a scalable backend infrastructure using cutting-edge technologies such as Golang, Kubernetes, and clean architecture.
+> Jia-Jun is a highly skilled software engineer specializing in C++ and Go programming.
+> He worked at Taipei Exchange, then became a senior backend developer at a blockchain startup and eventually led a cryptocurrency exchange team.
+> Currently, Jia-Jun is the Chief Technology Officer at Stranity Technology Co., Ltd. and has led the development of a scalable backend infrastructure using cutting-edge technologies such as Golang, Kubernetes, and clean architecture.
 
 Work Experience
 ---------------
@@ -27,7 +25,6 @@ Jan 2021-Present
     - Delivered a cloud-based trading engine to eliminate the need for self-hosting.
     - Expanded development team to seven members, led two C++ system engineers in developing an order gateway system, led two backend engineers and two frontend engineers in developing a back office system, and trained one SRE to master Kubernetes management to handle company system maintenance.
 
-
 July 2019-Jan 2021
 :   **Sky Mirror Technology Co., Ltd.** _VP of Engineering_
 
@@ -37,7 +34,6 @@ July 2019-Jan 2021
     - Implemented gRPC plugin that could call RPC in a single process to reduce network latency or avoid context switching.
     - Investigated several production accidents. e.g., MySQL transaction deadlock issue, unexpected process crashing, L2/L3 network connectivity.
     - As a team manager, recruited two backend engineers and one frontend engineer, and collaborated on developing system management and customer dashboard projects.
-
 
 June 2018-May 2019
 :   **COBINHOOD, Ltd.** _Lead Backend developer_
@@ -49,7 +45,6 @@ June 2018-May 2019
     - Implemented the Go version client library to integrate two blockchains (Monero, Tezos) in exchange.
     - Improved testing with database/cache tuning to speed up 300%.
     - Led a team of five engineers in developing and maintaining a backend system for a cryptocurrency exchange.
-
 
 June 2017-June 2018
 :   **Taipei Exchange** _Software Engineer_
