@@ -43,5 +43,6 @@ Education
 :   **MSc, Information Technology Engineering in Civil Engineering** National Chiao Tung University
 
     *Integrated Intelligent Computer-Aided Engineering Lab*
+
 2011-2015
 :   **BSc, Computer Science** National Taichung University of Education
