@@ -10,14 +10,14 @@ kingweirong@gmail.com
 Work Experience
 ---------------
 
-Jul 2022-Present
-:  **Chunghwa Telecom Co., Ltd.** _Engineer_
+July 2022-Present
+:   **Chunghwa Telecom Co., Ltd.** _Engineer_
 
     - Collaborate with the AWS CCoE(Cloud Center of Excellence) and cross BU to provide real-time feedback and trends to help drive accurate roadmaps based on customer needs and objectives.
     - Support the system management team with recommendations for cloud migration that will result in the achievement of cloudification.
     - Maintain the back-end system of the ICT(Information and Communications Technology) project.
 
-Jan 2021-Jul 2022
+Jan 2021-July 2022
 :   **Freelance** _Cloud Architecture Consultant_
 
     - Provide cloud technical solutions for small system integrator in Taiwan.
